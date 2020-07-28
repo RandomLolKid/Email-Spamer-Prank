@@ -1,0 +1,4 @@
+email=None
+password=None
+<<<Set This To One To Use The Random Int So That The Email Wont Be The Same>>>
+UseRandomInt=0
